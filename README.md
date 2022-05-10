@@ -1,10 +1,10 @@
 # ApiTwitter
 #EndPoint 
-# 1. http://localhost:8089/v1/get Obtiene todos portafolio
-# 2. http://localhost:8089/v1/get/{id} Obtiene portafolio por id
-# 3. http://localhost:8089/v1/save Guarda un nuevo portafolio
-# 4. http://localhost:8089/v1/update Actualiza u nuevo portafolio
-# 5. End Point para API TWITTER: http://localhost:8089/v1/find
+### 1. http://localhost:8089/v1/get Obtiene todos portafolio
+### 2. http://localhost:8089/v1/get/{id} Obtiene portafolio por id
+### 3. http://localhost:8089/v1/save Guarda un nuevo portafolio
+### 4. http://localhost:8089/v1/update Actualiza u nuevo portafolio
+### 5. End Point para API TWITTER: http://localhost:8089/v1/find
 
 # Variable de Entorno
 CONSUMER_KEY=noZL29Wx2KJqng2CIiZnmk0P4;
